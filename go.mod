@@ -1,3 +1,3 @@
-module github.com/seongjumoon/tutorial-gowiki
+module github.com/SeongJuMoon/tutorial-gowiki
 
 go 1.16
